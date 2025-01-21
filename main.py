@@ -1,0 +1,5 @@
+print ("11/17/24")
+print ("I feel weak, definitely, duh, i went a lot of problem, bcz myself")
+print ("i wish i could be a more discipline person and having something to achieve")
+print ("be a person who can stand by urslf and collaborate with other")
+print ("fire emoji")
