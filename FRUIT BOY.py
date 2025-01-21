@@ -39,9 +39,6 @@ elif c== 'gambling':
         elif g==3:
             print('I WIN AGAIN, gotta take that yours again')
             a.remove(random.choice)
-
-
-
 else:
     print('OPO SEH?')
 
