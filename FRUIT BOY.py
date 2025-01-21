@@ -1,3 +1,4 @@
+import random
 a = ['Banana','Apple','Coconut','Orange']
 print(a)
 
@@ -7,7 +8,6 @@ if c == 'buy':
     if b in ['Banana','Apple','Coconut','Orange']:
         print('We\'re not sale what u already have')
     elif b=='Jackfruit':
-        import random
         z= random.randint(1,3)
         if z>2:
             print('Who\'s fruit? \nHow abt ask Jack instead?')
@@ -28,12 +28,12 @@ elif c== 'gambling':
     if f not in a:
         print('U want to trick me?')
     else:
-        print('LET\'s)SEEE!!!')
+        print('LET\'s SEEE!!!')
         g= random.randint(1,3)
         if g==1:
             print('HMMM U GOT NOTHING, LOL')
         elif g==2:
-            print('Looks like i win the bet')
+            print('Looks like i win the bet, gotta take all of ur fruits')
             a.clear()
             print(a)
         elif g==3:

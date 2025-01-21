@@ -27,6 +27,5 @@ while i!= credit:
             print('UANGMU HABIS')
     else:
         print('HAH MNGSD??!!')
-        print(i)
 else: 
     print('\nKAMU TIDAK PUNYA UANG')
